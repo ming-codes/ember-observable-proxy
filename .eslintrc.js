@@ -8,6 +8,9 @@ module.exports = {
   env: {
     browser: true
   },
+  globals: {
+    'Observable': true
+  },
   rules: {
   }
 };

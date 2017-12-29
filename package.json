@@ -1,7 +1,7 @@
 {
   "name": "ember-observable-proxy",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Like PromiseProxyMixin, but for Observables",
   "keywords": [
     "ember-addon"
   ],
